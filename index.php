@@ -419,7 +419,7 @@
 <body>
 <div class="container">
     <div class="header">
-        <h1>Hashback QR Code Generator</h1>
+        <h1>Hashback Ltd QR Code Generator</h1>
         <p>Create your QR code in seconds</p>
     </div>
 
